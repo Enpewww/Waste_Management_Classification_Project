@@ -1,0 +1,3 @@
+URL Dataset: (https://drive.google.com/drive/folders/1BPeX-Nk7a7A5Nuryx1g3-djBuQqHHItR?usp=sharing) & (https://www.kaggle.com/datasets/techsash/waste-classification-data/data)
+URL Model: https://drive.google.com/drive/folders/1BPeX-Nk7a7A5Nuryx1g3-djBuQqHHItR?usp=sharing
+URL Deployment (Hugging Face): https://huggingface.co/spaces/LuthfiNadyan/Deployment_GC7_ComputerVision
